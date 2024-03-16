@@ -1,3 +1,5 @@
-# DATA_ANALYTICS
-SOME OF THE PROJECTS THAT I DID
-IF U WANT TO CONTACT ME REACH OUT AT sohini15.guha@gmail.com
+# Data Analyst Portfolio Project Repository
+
+This Repository will hold all of the code and queries from the Portfolio Projects I create.
+
+
